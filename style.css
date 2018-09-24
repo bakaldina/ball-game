@@ -1,0 +1,16 @@
+body {
+    height: 2000px;
+}
+#field {
+    width: 200px;
+    height: 150px;
+    border: 10px groove black;
+    background-color: #00FF00;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+#ball {
+    position: absolute;
+}
